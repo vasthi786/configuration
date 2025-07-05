@@ -1,1 +1,3 @@
 "message": "This is from QA file updated2"
+"app":
+  "name": "some app";
